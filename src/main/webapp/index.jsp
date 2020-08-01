@@ -5,7 +5,7 @@
 <body>Some text here
 	<p>Adding a paragraph here</p>
 	<p>Second paragraph</p>
-      <form action="/WEBinput2.py">
+      <form action="WEBinput2.py">
          <label for="pname">Patient Name:</label><br>
          <input type="text" id="pname" name="pname">
          <br>
