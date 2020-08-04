@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import cgi
 form = cgi.FieldStorage()
 patname =  form.getvalue('pname')
